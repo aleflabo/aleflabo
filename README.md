@@ -1,5 +1,5 @@
 
-<h1 align="center"> Hi, I'm Alessandro Flaborea</h1>
+<h1 align="center"> Hi! I'm Alessandro Flaborea</h1>
 <h3 align="center"> Phd Student in Computer Science @ Sapienza University of Rome</h3>
 
 
