@@ -3,10 +3,10 @@
 <h3 align="center"> Phd Student in Computer Science @ Sapienza University of Rome</h3>
 
 
-- 🔭 I’m currently focusing on research on Computer Vision and Machine Learning 
+- 🔭 Research areas: Computer Vision and Machine Learning 
 - 🌱 I’m currently working on Video Anomaly Detection, Human Pose Forecasting, Egocentric Vision, Hyperbolic Neural Networks
 - 🧑‍💻 I'm a member of the Perception and Intelligence Lab ([PINlab](https://www.pinlab.org)) 
-- 📖 Find my Publications here: [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4.svg?style=flat-square&logo=Google-Scholar&logoColor=white&link=)](https://scholar.google.com/citations?user=HHDHIVoAAAAJ&hl=it&authuser=1)
+- 📖 You can find my Publications here: [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4.svg?style=flat-square&logo=Google-Scholar&logoColor=white&link=)](https://scholar.google.com/citations?user=HHDHIVoAAAAJ&hl=it&authuser=1)
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/alessandro-flaborea/) 
 , [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:flaborea.alessandro.com)](mailto:flaborea.alessandro@gmail.com), [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat-square&logo=Twitter&logoColor=white&link=)](https://twitter.com/AlessandroFlabo)
 
