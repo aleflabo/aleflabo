@@ -1,6 +1,6 @@
 
 <h1 align="center"> Hi! I'm Alessandro Flaborea</h1>
-<h3 align="center"> Phd Student in Computer Science @Sapienza University of Rome</h3>
+<h3 align="center"> Phd Student in Computer Science @ Sapienza University of Rome</h3>
 
 
 - 🔭 Research areas: Computer Vision and Machine Learning 
@@ -12,5 +12,4 @@
 
 - ⚡ Tools I daily use: ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff), ![Weights & Biases](https://img.shields.io/badge/Weights%20&%20Biases-FFBE00.svg?style=flat-square&logo=weightsandbiases&logoColor=black)
 
-## Some Statistics About Me
 ![Alessandro's github stats](https://github-readme-stats.vercel.app/api?username=aleflabo&include_all_commits=true&count_private=true&show_owner=true&show_icons=true&theme=merko)<br>
