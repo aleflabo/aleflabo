@@ -12,4 +12,7 @@
 
 - ⚡ Tools I daily use: ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff) ![Weights & Biases](https://img.shields.io/badge/Weights%20&%20Biases-FFBE00.svg?style=flat-square&logo=weightsandbiases&logoColor=black)
 
-![Alessandro's github stats](https://github-readme-stats.vercel.app/api?username=aleflabo&include_all_commits=true&count_private=true&show_owner=true&show_icons=true&theme=merko)<br>
+
+<a href="https://github.com/dioptx">
+    <img src="https://github-stats-alpha.vercel.app/api?username=aleflabo&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
+</a>
