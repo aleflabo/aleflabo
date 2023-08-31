@@ -3,7 +3,7 @@
 <h3 align="center"> Phd Student in Computer Science @ Sapienza University of Rome</h3>
 
 <p align="center">
-<a href="https://github.com/dioptx" >
+<a href="https://github.com/aleflabo" >
     <img src="https://github-stats-alpha.vercel.app/api?username=aleflabo&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
 </a>
 </p>
