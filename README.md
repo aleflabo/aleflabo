@@ -1,6 +1,6 @@
 
 <h1 align="center"> Hi! I'm Alessandro Flaborea</h1>
-<h3 align="center"> Phd Student in Computer Science @ Sapienza University of Rome</h3>
+<h3 align="center"> Phd in Computer Science @ Sapienza University of Rome</h3>
 
 <p align="center">
 <a href="https://github.com/aleflabo" >
