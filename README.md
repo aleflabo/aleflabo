@@ -1,6 +1,6 @@
 
 <h1 align="center"> Hi! I'm Alessandro Flaborea</h1>
-<h3 align="center"> CTO & Co-Founder of <a href="https://www.proceder.ai" >Proceder.ai</a></h3>
+<h3 align="center"> CTO & Co-Founder of <a href="https://www.procederai.com" >Procederai</a></h3>
 
 <p align="center">
 <a href="https://github.com/aleflabo" >
